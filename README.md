@@ -120,7 +120,7 @@ Figma prototype: https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journa
     <td>Folder with screenshots of how the application works after being fully developed</td>
   </tr>
   <tr>
-    <td><code>docs / requirements.png</code></td>
+    <td><code>docs&nbsp;/&nbsp;requirements.png</code></td>
     <td>What must be done in this challenge</td>
   </tr>
   <tr>
