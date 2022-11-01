@@ -147,7 +147,7 @@ Figma prototype: https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journa
 
 ## 💡 Details
 
-I spend 10 times less time on this project than on the previous also ReactJS one. Just used the structure defined in the previous project. I realy enjoyed the coding process!
+I spent 10 times less time on this project than on the previous also ReactJS one. Just used the structure defined in the previous project. I realy enjoyed the coding process!
 
 ## 🔗 Useful resources
 
